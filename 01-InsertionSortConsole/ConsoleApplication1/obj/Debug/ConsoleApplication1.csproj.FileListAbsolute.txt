@@ -4,3 +4,6 @@ c:\users\a.eldemoksy\documents\visual studio 2015\Projects\ConsoleApplication1\C
 c:\users\a.eldemoksy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 c:\users\a.eldemoksy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\a.eldemoksy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\MET\2025\Algo\Algorithms\01-InsertionSortConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\MET\2025\Algo\Algorithms\01-InsertionSortConsole\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\MET\2025\Algo\Algorithms\01-InsertionSortConsole\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
